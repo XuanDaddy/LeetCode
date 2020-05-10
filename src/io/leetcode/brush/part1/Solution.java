@@ -1,25 +1,9 @@
 package io.leetcode.brush.part1;
 
-import java.util.Arrays;
-
 /**
  * @Author: XuanDaddy
- * @Description:
+ * @Description: 两数之和。1. 暴力法；2. 哈希表
  * @Date: 2020/5/10
- */
-class TwoSum {
-
-    public static void main(String[] args) {
-        Solution solution = new Solution();
-        System.out.println(Arrays.toString(solution.twoSum2(new int[]{2, 7, 11, 15}, 9)));
-    }
-
-
-}
-
-/**
- * 1. 暴力法
- * 2. 哈希表
  */
 class Solution {
 
