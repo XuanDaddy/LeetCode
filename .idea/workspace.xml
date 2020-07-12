@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="baa5ef79-ff1b-41bf-aabb-281625e83311" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/io/leetcode/brush/part203/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/io/leetcode/brush/part4/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/META-INF/LeetCode.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/io/leetcode/brush/part3/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/io/leetcode/brush/part3/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/io/leetcode/brush/part3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/leetcode/brush/part3/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/io/leetcode/brush/part203/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/leetcode/brush/part203/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +153,7 @@
       <workItem from="1589092395144" duration="12714000" />
       <workItem from="1591451844062" duration="861000" />
       <workItem from="1591499852917" duration="523000" />
-      <workItem from="1594535879334" duration="1554000" />
+      <workItem from="1594535879334" duration="3094000" />
     </task>
     <servers />
   </component>

@@ -13,19 +13,13 @@ package io.leetcode.brush.part203;
 class Solution {
 
     public ListNode removeElements(ListNode head, int val) {
-        ListNode dummyHead = new ListNode(-1);
-        dummyHead.next = head;
 
-        ListNode prev = dummyHead;
-        while (prev.next != null) {
-            if (prev.next.val == val) {
-                prev.next = prev.next.next;
-            } else {
-                prev = prev.next;
-            }
+        if (head == null) {
+            return null;
         }
 
-        return dummyHead.next;
+        head.next = removeElements(head.next, val);
+        return head.val == val ? head.next : head;
     }
 }
 
