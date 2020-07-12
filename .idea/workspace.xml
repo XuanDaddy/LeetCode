@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="baa5ef79-ff1b-41bf-aabb-281625e83311" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/io/leetcode/brush/part3/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/leetcode/brush/part203/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/io/leetcode/brush/part4/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/io/leetcode/brush/part1/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/io/leetcode/brush/part1/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/io/leetcode/brush/part1/TwoSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/io/leetcode/brush/part2/AddTwoNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/io/leetcode/brush/part2/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/io/leetcode/brush/part2/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/io/leetcode/brush/part2/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/io/leetcode/brush/part2/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/io/leetcode/brush/part1/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/leetcode/brush/part1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/io/leetcode/brush/part2/AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/leetcode/brush/part2/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/META-INF/LeetCode.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/io/leetcode/brush/part3/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/io/leetcode/brush/part3/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/io/leetcode/brush/part3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/leetcode/brush/part3/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +46,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.Solution (1)">
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
       <Port>5050</Port>
@@ -61,6 +58,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="io.leetcode.brush.part2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.leetcode.brush.part4.Solution" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.leetcode.brush.part4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,6 +137,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.AddTwoNumbers" />
         <item itemvalue="Application.TwoSum" />
@@ -142,7 +154,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1589092393621</updated>
-      <workItem from="1589092395144" duration="11077000" />
+      <workItem from="1589092395144" duration="12714000" />
+      <workItem from="1591451844062" duration="861000" />
+      <workItem from="1591499852917" duration="523000" />
+      <workItem from="1594535879334" duration="1554000" />
     </task>
     <servers />
   </component>
@@ -154,38 +169,38 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="426" y="93" key="#xdebugger.evaluate/0.0.1440.900@0.0.1440.900" timestamp="1589095972536" />
-    <state width="1388" height="225" key="GridCell.Tab.0.bottom" timestamp="1589109247071">
+    <state width="1388" height="225" key="GridCell.Tab.0.bottom" timestamp="1591455982118">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1388" height="225" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589109247071" />
-    <state width="1388" height="225" key="GridCell.Tab.0.center" timestamp="1589109247071">
+    <state width="1388" height="225" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1591455982118" />
+    <state width="1388" height="225" key="GridCell.Tab.0.center" timestamp="1591455982117">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1388" height="225" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1589109247071" />
-    <state width="1388" height="225" key="GridCell.Tab.0.left" timestamp="1589109247070">
+    <state width="1388" height="225" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1591455982117" />
+    <state width="1388" height="225" key="GridCell.Tab.0.left" timestamp="1591455982116">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1388" height="225" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1589109247070" />
-    <state width="1388" height="225" key="GridCell.Tab.0.right" timestamp="1589109247071">
+    <state width="1388" height="225" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1591455982116" />
+    <state width="1388" height="225" key="GridCell.Tab.0.right" timestamp="1591455982117">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1388" height="225" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1589109247071" />
-    <state width="1388" height="280" key="GridCell.Tab.1.bottom" timestamp="1589097015330">
+    <state width="1388" height="225" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1591455982117" />
+    <state width="1388" height="280" key="GridCell.Tab.1.bottom" timestamp="1589115375943">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1388" height="280" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589097015330" />
-    <state width="1388" height="280" key="GridCell.Tab.1.center" timestamp="1589097015329">
+    <state width="1388" height="280" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1589115375943" />
+    <state width="1388" height="280" key="GridCell.Tab.1.center" timestamp="1589115375943">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1388" height="280" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1589097015329" />
-    <state width="1388" height="280" key="GridCell.Tab.1.left" timestamp="1589097015329">
+    <state width="1388" height="280" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1589115375943" />
+    <state width="1388" height="280" key="GridCell.Tab.1.left" timestamp="1589115375942">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1388" height="280" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1589097015329" />
-    <state width="1388" height="280" key="GridCell.Tab.1.right" timestamp="1589097015330">
+    <state width="1388" height="280" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1589115375942" />
+    <state width="1388" height="280" key="GridCell.Tab.1.right" timestamp="1589115375943">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1388" height="280" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1589097015330" />
+    <state width="1388" height="280" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1589115375943" />
     <state x="105" y="1" key="SettingsEditor" timestamp="1589092531040">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

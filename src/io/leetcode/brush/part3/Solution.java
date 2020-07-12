@@ -17,6 +17,7 @@ class Solution {
 
     /**
      * 主要使用滑动窗口算法
+     * 在滑动窗口类型的问题中都会有两个指针。一个用于延伸现有窗口的 rightright 指针，和一个用于收缩窗口的 leftleft 指针。在任意时刻，只有一个指针运动，而另一个保持静止。
      */
     public int lengthOfLongestSubstring(String s) {
         if (s == null || s.length() == 0) {
